@@ -15,6 +15,8 @@ Prog.kiev.ua. Java OOP. Группа 58
 
 [Java OOP. Богдан. Группа 58. Лекция 6 (07.08.2017)](https://prog.kiev.ua/forum/index.php/topic,3065.0.html)
 
+[Java OOP. Богдан. Группа 58. Лекция 7 (09.08.2017)](https://prog.kiev.ua/forum/index.php/topic,3069.0.html)
+
 ## Видео/аудио лекций другой группы
 
 [Видеозапись лекций](https://mega.nz/#F!fI9ACBqB)
