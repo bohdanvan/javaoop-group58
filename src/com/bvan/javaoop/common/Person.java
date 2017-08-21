@@ -1,5 +1,6 @@
 package com.bvan.javaoop.common;
 
+import java.io.Serializable;
 import java.util.Objects;
 
 /**
@@ -7,7 +8,9 @@ import java.util.Objects;
  *
  * @author bvanchuhov
  */
-public class Person {
+public class Person implements Serializable {
+
+    private static final long serialVersionUID = 1L;
 
     private final String name;
     private final int age;
