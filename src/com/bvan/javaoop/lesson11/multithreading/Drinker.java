@@ -1,4 +1,4 @@
-package lesson11.multithreading;
+package com.bvan.javaoop.lesson11.multithreading;
 
 /**
  * @author bvanchuhov
